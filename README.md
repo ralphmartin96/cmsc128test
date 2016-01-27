@@ -1,2 +1,2 @@
-# cmsc128test
+* cmsc128test
 READ ME
